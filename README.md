@@ -5,7 +5,7 @@ This is a sample script to deploy a new cluster in Cisco Container Platform
 Table of Contents
 =================
 
-      * [License](#license)
+    * [License](#license)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
